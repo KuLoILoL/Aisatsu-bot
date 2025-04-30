@@ -1,1 +1,2 @@
 # Aisatsu-bot
+あいさつbotのやつ
